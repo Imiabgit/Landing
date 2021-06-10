@@ -1,0 +1,9 @@
+
+.button {
+	text-decoration:none ;
+	background-color:white;
+	border-radius: 3px;
+	padding:1px 3px;
+	color: black;
+	font-family: 'Itim', cursive;
+}
